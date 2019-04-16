@@ -1,6 +1,6 @@
 # OrderPizzaOnline
 Web application for ordering food by using Laravel framework, created in 2017.
-#Setup
+## Setup
 - Clone or download this repository
 - Add .env file (.env.example in the project can be configured according to it)
 - Open the console and cd project root directory
